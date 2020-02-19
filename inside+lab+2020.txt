@@ -1,10 +1,11 @@
 Discovering the potential value from the data is a basic question and it has undergone substantial development over the past years. Furuzuki Laboratory has committed to the analysis, design and application of  machine learning, especially deep learning.  We mainly focus on the relation network, reinforcement learning, kernel machine, semi-supervised learning, AI musical composition, bioinformatics, object detection and group emotion recognition. Our computing system is comprised of several CPU severs and GPU severs which support various research and applications such as deep learning and big data analysis. There are some concrete examples of the research field we focus on:
 
 
-1.Relation network discovers the meaningful relations between connected entities.
-2.Deep reinforcement learning incorporates deep learning and reinforcement learning, providing agents in high-dimensional environment with decision making ability.
-3.Semi-supervised learning aims to construct a classifier by making use of both labeled and unlabeled data.
-4.AI musical composition aims to generate the main melody of karaoke music.
+1.Relation network design for discovering the meaningful relations between connected entities.
+2.Deep reinforcement learning for providing agents in high-dimensional environment with decision making ability.
+3.Hierarchical multi-label classifier for gene ontology annotation based deep CNN.
+4.Semi-supervised learning for constructing a classifier by making use of both labeled and unlabeled data.
+5.Music composition for generating the main melody of karaoke music.
 
 
 Currently, there are 1 JSPS researcher, 9 doctor students and 22 master students in our laboratory. Professor Furuzuki pays much attention to cultivate independent thinking, problem-solving and innovation spirit of all the students. The weekly seminar is held on every Wednesday afternoon as a regular research event for students presenting research progress and sharing paper reading. Besides, the 1-on-1 mentoring by Professor Furuzuki is available on Thursday afternoon to offer more specific guidance to each student. 
